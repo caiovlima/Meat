@@ -370,5 +370,22 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "name": "CAIO VINICIUS DE LIMA",
+      "email": "CAIO_LIMA_NH@HOTMAIL.COM",
+      "emailConfirmation": "CAIO_LIMA_NH@HOTMAIL.COM",
+      "address": "JOANA DARCI DE OLIVEIRA MACHADO",
+      "number": "225",
+      "optionalAddress": "casa",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
