@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+  }
+  body {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  social{
+    background-color: black
+  }
+  
+  
+  i {
+    padding: 0px 10px;
+  }
+  
+  
