@@ -158,4 +158,4 @@ Project Link: [https://github.com/caiovlima/Meat](https://github.com/caiovlima/M
 [license-shield]: https://img.shields.io/github/license/caiovlima/Meat.svg?style=for-the-badge
 [license-url]: https://github.com/caiovlima/Meat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/caiovlima
+[linkedin-url]: https://www.linkedin.com/in/caioviniciuslima/
